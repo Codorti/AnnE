@@ -1,0 +1,31 @@
+body{
+	margin:0;
+}
+header{
+	background-color: lavender;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+header h1{
+	color: black;
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
+}
+header img{
+	border-radius: 35px;
+	width: 400px; 
+	height: auto;
+}
+h2{
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+}
+main{
+	max-width: 50%;
+	margin-top: 0;
+	margin-left: 25%;
+	margin-bottom: 0;
+}
+main img{
+	max-width: 100%; 
+}
